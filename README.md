@@ -1,4 +1,3 @@
 # puppetTest
 
-This is a test.
-This is another test.
+No more testing!
